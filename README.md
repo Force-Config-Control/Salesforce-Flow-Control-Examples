@@ -1,6 +1,5 @@
-# Force-Flow-Control-Examples
+# lightning-flow-scanner-example-flows
 Contains example flows used in demo GIFs to follow along with the demo.
-You need to have Force Flow Control installed.
 
 ## 1: Clone this repository in Visual Studio Code:
 
