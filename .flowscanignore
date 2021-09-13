@@ -1,9 +1,4 @@
 {
-  "activeRules": [
-    "DMLStatementInLoop",
-    "DuplicateDMLOperationsByNavigation",
-    "HardcodedIds"
-  ],
   "overrides": [
       {
           "flowName": "Create Property",
